@@ -3,7 +3,7 @@ package com.example.libraryapp.repositories;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.librarybackend.library_backend.model.Book;
+import main.java.com.librarybackend.library_backend.model.Book;
 
 import java.util.List;
 
